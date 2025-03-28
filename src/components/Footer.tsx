@@ -50,7 +50,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <Mail size={18} className="mr-2 mt-0.5 text-gray-400" />
-                <span className="text-gray-400">info@interactinews.com</span>
+                <span className="text-gray-400">info@newspulse.com</span>
               </li>
               <li className="flex items-start">
                 <Calendar size={18} className="mr-2 mt-0.5 text-gray-400" />
